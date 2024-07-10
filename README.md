@@ -1,0 +1,2 @@
+# A-Social-Relationship-Awareness-Based-Dependent-Task-Offloading-Algorithm-for-Mobile-Edge-Computing
+This study presents a task offloading algorithm that considers social relationships, task dependencies, energy consumption, and latency. It optimizes four modes—local, D2D, edge, and mixed execution—using the Hungarian algorithm. Experiments validate its effectiveness for mobile devices, IoT, data centers, and intelligent vehicles.
